@@ -1,0 +1,8 @@
+C:\Users\50582\source\repos\Ejerc-POO\POO-ejer7\POO-ejer7\bin\Debug\POO-ejer7.exe.config
+C:\Users\50582\source\repos\Ejerc-POO\POO-ejer7\POO-ejer7\bin\Debug\POO-ejer7.exe
+C:\Users\50582\source\repos\Ejerc-POO\POO-ejer7\POO-ejer7\bin\Debug\POO-ejer7.pdb
+C:\Users\50582\source\repos\Ejerc-POO\POO-ejer7\POO-ejer7\obj\Debug\POO-ejer7.csproj.AssemblyReference.cache
+C:\Users\50582\source\repos\Ejerc-POO\POO-ejer7\POO-ejer7\obj\Debug\POO-ejer7.csproj.SuggestedBindingRedirects.cache
+C:\Users\50582\source\repos\Ejerc-POO\POO-ejer7\POO-ejer7\obj\Debug\POO-ejer7.csproj.CoreCompileInputs.cache
+C:\Users\50582\source\repos\Ejerc-POO\POO-ejer7\POO-ejer7\obj\Debug\POO-ejer7.exe
+C:\Users\50582\source\repos\Ejerc-POO\POO-ejer7\POO-ejer7\obj\Debug\POO-ejer7.pdb
